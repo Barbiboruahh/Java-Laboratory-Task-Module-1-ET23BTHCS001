@@ -1,1 +1,1 @@
-# Java-Laboratory-Task-Module-1-ET23BTHCS001
+# Java-Laboratory-Task-ET23BTHCS001
